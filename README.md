@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMacaneta&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/CarlosMacaneta/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosMacaneta&repo=carlosmacaneta)](https://github.com/CarlosMacaneta/carlosmacaneta)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosMacaneta)](https://github.com/CarlosMacaneta/github-readme-stats)
 

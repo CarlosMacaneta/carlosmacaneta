@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMacaneta&show_icons=true&theme=tokyonight)
+![Carlos Macaneta's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMacaneta&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMacaneta&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/CarlosMacaneta/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosMacaneta)](https://github.com/CarlosMacaneta/github-readme-stats)
 

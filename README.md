@@ -20,10 +20,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMacaneta&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/CarlosMacaneta/github-readme-stats)
 
-<a href="https://github.com/CarlosMacaneta/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosMacaneta&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/CarlosMacaneta/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosMacaneta&repo=convoychat" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosMacaneta&repo=carlosmacaneta)](https://github.com/CarlosMacaneta/carlosmacaneta)
 

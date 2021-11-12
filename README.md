@@ -15,6 +15,10 @@
 
   <p><b>💻 GitHub Profile Stats</b></p>
   <br/>
+  
+  
+  [![](https://raw.githubusercontent.com/CarlosMacaneta/carlosmacaneta/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/CarlosMacaneta/carlosmacaneta/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Carlos Macaneta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CarlosMacaneta&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
 <br/>

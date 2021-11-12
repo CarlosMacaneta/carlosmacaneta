@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Carlos Macaneta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Android+And+Web+Developer;I%20am%20%%2020Always%20learning%20new%20things%20to%20improve%20my%20skills&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Android+And+Web+Developer;I%20am%20%%20Always%20learning%20new%20things%20to%20improve%20my%20skills&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I'm Web, mobile and desktop developer from Maputo, Mozambique, actually I'm working in mobile development. I enjoy turning complex problem into simple, wonderful and creative apps.</h4>
@@ -17,9 +17,9 @@
   <br/>
   
  
-[![Carlos Macaneta's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMacaneta&show_icons=true&theme=tokyonight) ![Top Languagues by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosMacaneta&theme=tokyonight)
+[![Carlos Macaneta's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMacaneta&show_icons=true&theme=tokyonight) ![Carlos Macaneta GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosMacaneta&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMacaneta&langs_count=10&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/CarlosMacaneta/github-readme-stats) ![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosMacaneta&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMacaneta&langs_count=10&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/CarlosMacaneta/github-readme-stats) ![Carlos Macaneta GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosMacaneta&theme=tokyonight)
 
  
  

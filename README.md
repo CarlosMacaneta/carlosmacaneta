@@ -16,19 +16,21 @@
   <p><b>💻 GitHub Profile Stats</b></p>
   <br/>
   
+ 
+[![Carlos Macaneta's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMacaneta&show_icons=true&theme=tokyonight) ![Top Languagues by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosMacaneta&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMacaneta&langs_count=10&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/CarlosMacaneta/github-readme-stats) ![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosMacaneta&theme=tokyonight)
+
+ 
+ 
   
-  [![](https://raw.githubusercontent.com/CarlosMacaneta/CarlosMacaneta/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/CarlosMacaneta/CarlosMacaneta/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  
-  <p align="center">
+<!--  <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Carlos Macaneta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CarlosMacaneta&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosMacaneta&show_icons=true&langs_count=10&locale=en&layout=compact&theme=tokyonight" alt="CarlosMacaneta" height="192px"/>
   <br/>
-  </p>
+  </p> -->
 
 
-<!-- ![Carlos Macaneta's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMacaneta&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMacaneta&langs_count=10&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/CarlosMacaneta/github-readme-stats) -->
-
+ 

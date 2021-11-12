@@ -18,22 +18,8 @@
   
 
 ![Carlos Macaneta's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMacaneta&show_icons=true&theme=tokyonight) 
-![Carlos Macaneta GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosMacaneta&theme=solarized_dark)
+![Carlos Macaneta GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosMacaneta&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMacaneta&langs_count=10&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/CarlosMacaneta/github-readme-stats) 
 ![Carlos Macaneta GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosMacaneta&theme=dracula)
 
-
- 
- 
-  
-<!--  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Carlos Macaneta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CarlosMacaneta&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosMacaneta&show_icons=true&langs_count=10&locale=en&layout=compact&theme=tokyonight" alt="CarlosMacaneta" height="192px"/>
-  <br/>
-  </p> -->
-
-
- 

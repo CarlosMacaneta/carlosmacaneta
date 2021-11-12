@@ -12,17 +12,17 @@
 
 ## 📊 Github Stats 
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+
+  <p><b>💻 GitHub Profile Stats</b></p>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Carlos Macaneta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CarlosMacaneta&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosMacaneta&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="CarlosMacaneta" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosMacaneta&show_icons=true&langs_count=10&locale=en&layout=compact&theme=tokyonight" alt="CarlosMacaneta" height="192px"/>
   <br/>
   </p>
-</details>
+
 
 <!-- ![Carlos Macaneta's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMacaneta&show_icons=true&theme=tokyonight)
 

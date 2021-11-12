@@ -22,7 +22,7 @@
 ![Carlos Macaneta GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosMacaneta&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMacaneta&langs_count=10&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/CarlosMacaneta/github-readme-stats) 
-![Carlos Macaneta GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosMacaneta&langs_count=10&theme=dracula)
+![Carlos Macaneta GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosMacaneta&theme=dracula&layout=compact)
 
 </div>
 

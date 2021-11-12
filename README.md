@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Carlos Macaneta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Android+And+Web+Developer;%20Always%20learning%20new%20things%20to%20improve%20my%20skills&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Android+And+Web+Developer;I%20Always%20learning%20new%20things%20to%20improve%20my%20skills&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I'm Web, mobile and desktop developer from Maputo, Mozambique, actually I'm working in mobile and frontend development. I enjoy turning complex problem into simple, wonderful and creative apps.</h4>

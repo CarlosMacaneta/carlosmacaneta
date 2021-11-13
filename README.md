@@ -10,7 +10,7 @@
 ## Skills
 <div align="center">
 
-	![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 	![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 	![Spring Boot](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=spring&logoColor=white)
 	![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -47,5 +47,3 @@
 ![Carlos Macaneta GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosMacaneta&theme=dracula&layout=compact)
 
 </div>
-
-![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)

@@ -7,7 +7,7 @@
 <br>
 <p align="center"> 
 
-[[![Count View](https://img.shields.io/badge/--181717?label=Profile%20views&logo=github&colorB=7289da&style=for-the-badge)](https://github.com/)](https://komarev.com/ghpvc/?username=CarlosMacaneta&label=Profile%20views&color=0e75b6&style=flat-square" alt="CarlosMacaneta)
+[![Count View](https://komarev.com/ghpvc/?username=CarlosMacaneta?label=Profile%20views&logo=github&colorB=7289da&style=for-the-badge)](https://github.com/)
 
 </p>
 

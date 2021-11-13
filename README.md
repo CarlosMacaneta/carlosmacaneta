@@ -7,7 +7,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CarlosMacaneta&label=Profile%20views&color=0e75b6&style=plastic" alt="CarlosMacaneta" /> </p>
 
-![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 
 ## 🛠 Skills
 

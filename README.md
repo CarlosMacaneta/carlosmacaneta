@@ -7,7 +7,8 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CarlosMacaneta&label=Profile%20views&color=0e75b6&style=plastic" alt="CarlosMacaneta" /> </p>
 
-![Visitor Count](https://profile-counter.glitch.me/CarlosMacaneta/count.svg)
+[![GitHub Views](https://komarev.com/ghpvc/?username=CarlosMacaneta&color=FAC151)][1]
+
 
 ## 🛠 Skills
 

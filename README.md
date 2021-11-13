@@ -7,8 +7,7 @@
 <br>
 <p align="center"> 
 
-[![Count View](https://img.shields.io/badge/--181717?label=Profile%20views&logo=github&colorB=7289da&style=for-the-badge)](https://github.com/)
-<img src="https://komarev.com/ghpvc/?username=CarlosMacaneta&label=Profile%20views&color=0e75b6&style=flat-square" alt="CarlosMacaneta" /> 
+[[![Count View](https://img.shields.io/badge/--181717?label=Profile%20views&logo=github&colorB=7289da&style=for-the-badge)](https://github.com/)](https://komarev.com/ghpvc/?username=CarlosMacaneta&label=Profile%20views&color=0e75b6&style=flat-square" alt="CarlosMacaneta)
 
 </p>
 
@@ -54,6 +53,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMacaneta&langs_count=10&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/CarlosMacaneta/github-readme-stats) 
 ![Carlos Macaneta GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosMacaneta&theme=dracula&layout=compact)
-[![Sparkline](https://stars.medv.io/CarlosMacaneta/badges.svg)](https://stars.medv.io/CarlosMacaneta/badges)
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 </div>

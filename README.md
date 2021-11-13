@@ -5,7 +5,7 @@
 <hr/>
 <h4 align="center">I'm Web, mobile and desktop developer from Maputo, Mozambique, actually I'm working in mobile development. I enjoy turning complex problem into simple, wonderful and creative apps.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=CarlosMacaneta?label=Profile%20views&logo=github&colorB=7289da&style=flat-square"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CarlosMacaneta?label=Profile%20views&style=flat-square"> </p>
 
 ## 🛠 Skills
 
@@ -48,6 +48,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMacaneta&langs_count=10&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/CarlosMacaneta/github-readme-stats) 
 ![Carlos Macaneta GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosMacaneta&theme=dracula&layout=compact)
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 </div>

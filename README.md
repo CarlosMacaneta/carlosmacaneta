@@ -5,7 +5,7 @@
 <hr/>
 <h4 align="center">I'm Web, mobile and desktop developer from Maputo, Mozambique, actually I'm working in mobile development. I enjoy turning complex problem into simple, wonderful and creative apps.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=CarlosMacaneta?label=Profile%20views&style=flat-square"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CarlosMacaneta&color=red&logo=github&style=flat-square"> </p>
 
 ## 🛠 Skills
 

@@ -7,6 +7,15 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CarlosMacaneta&color=red&logo=github&style=flat-square"> </p>
 
+## 📱 Contacts
+
+<div aling="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-macaneta-0050a4179/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/carlosmacaneta)
+	
+</div>
+
 ## 🛠 Skills
 
 <div align="center">

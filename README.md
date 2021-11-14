@@ -7,7 +7,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CarlosMacaneta&color=red&logo=github&style=flat-square"> </p>
 
-## 📱 Contacts
+## 📱 Contacts/Social
 
 <div aling="center">
 

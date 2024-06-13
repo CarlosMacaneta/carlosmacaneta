@@ -10,12 +10,9 @@
 </div>
 
 ## 🏆 Badge
-
-<p align="center">
-  <a href="https://github.com/CarlosMacaneta">
-  <img width=55% src="https://github-readme-stats.vercel.app/api?username=CarlosMacaneta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img  width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelsoDeCarvalho&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+<div align="center">
+	[![trophy](https://github-profile-trophy.vercel.app/?username=CarlosMacaneta&margin-w=10&margin-h=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 ## 🛠 Skills
 

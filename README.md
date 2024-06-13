@@ -10,8 +10,9 @@
 </div>
 
 ## 🏆 Badge
+
 <div align="center">
-	[![trophy](https://github-profile-trophy.vercel.app/?username=CarlosMacaneta&margin-w=10&margin-h=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CarlosMacaneta&margin-w=10&margin-h=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ## 🛠 Skills

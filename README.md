@@ -17,33 +17,6 @@
 
 </div>
 
-## 🛠 Skills
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/JetpackCompose-3DDC84?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Ktor](https://img.shields.io/badge/Ktor-3DDC84?style=for-the-badge&logo=ktor&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logo=retorfit&logoColor=white)
-![Koin](https://img.shields.io/badge/Koin-3DDC84?style=for-the-badge&logo=koin&logoColor=white)
-![Hilt](https://img.shields.io/badge/DaggerHilt-3DDC84?style=for-the-badge&logo=daggerhilt&logoColor=white)
-![Realm DB](https://img.shields.io/badge/RealmDB-3DDC84?style=for-the-badge&logo=realmedb&logoColor=white)
-![Room DB](https://img.shields.io/badge/RoomDB-3DDC84?style=for-the-badge&logo=roomdb&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Maria DB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PlSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-![Twillio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-	
-</div>
-
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosMacaneta&theme=tokyonight" alt="CarlosMacaneta"  /></p>
 

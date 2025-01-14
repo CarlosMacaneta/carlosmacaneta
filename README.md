@@ -11,7 +11,7 @@
  🌱 Currently exploring QA Engineering  and AI technologies.
  ```
 
-🏆 **Skills & Expertise**
+🏆 **Skills & Expertise** </br>
 ⚙️ Backend Development:
 
     Languages: Python, PHP

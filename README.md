@@ -1,5 +1,5 @@
 👋 Hello, I'm Carlos Macaneta </br>
-Software Developer | Android Enthusiast | Backend Specialist | Tech Explorer
+Software Developer | Android Enthusiast | Backend Specialist | Tech Explorer </br>
 🚀 About Me
 
     🛠 Passionate about building robust mobile applications with Jetpack Compose and backend solutions using Django and Laravel.

@@ -1,4 +1,4 @@
-👋 Hello, I'm [Carlos Macaneta]
+👋 Hello, I'm Carlos Macaneta </br>
 Software Developer | Android Enthusiast | Backend Specialist | Tech Explorer
 🚀 About Me
 

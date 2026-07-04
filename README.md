@@ -1,347 +1,65 @@
+# 👋 Hey, I’m Carlos Macaneta
 
-# 👋 Hello, I'm Carlos Macaneta
+> “I turn coffee into apps, and bugs into feature requests.”
 
-### Mobile Engineer (Android & Flutter) | Backend Developer | Microservices Enthusiast | AI Explorer
+---
 
-Building scalable mobile applications, robust backend systems, and innovative digital solutions that create real-world impact.
+## 🧠 Who I Am
 
-----------
+I’m a **software developer** who lives somewhere between backend logic, mobile apps, and “why is this not working on production but works on my machine?”
 
-## 🚀 About Me
+I enjoy building systems that actually solve real problems—not just tutorials that look good on LinkedIn.
 
-I'm a software developer passionate about designing and building high-quality software across mobile, backend, and distributed systems.
+---
 
-My experience spans Android and Flutter development, backend engineering, health information systems, microservices, and quality assurance. I enjoy solving complex problems, creating maintainable architectures, and exploring emerging technologies such as Artificial Intelligence and Machine Learning.
+## ⚙️ What I Do
 
--   📱 Mobile Engineer specializing in Android and Flutter
-    
--   ⚙️ Backend Developer with Django and Laravel
-    
--   🔄 Experienced in Microservices, Apache Kafka, Redis, and Celery
-    
--   🏥 Contributor to Health Information Systems powered by DHIS2
-    
--   🧪 Passionate about QA Engineering and Test Automation
-    
--   🤖 Exploring AI, Machine Learning, and Intelligent Mobile Applications
-    
--   🌍 Open-source enthusiast and lifelong learner
-    
+- 📱 Android development (Jetpack Compose, MVVM, coroutines… yes, I dream in Kotlin)
+- 🧩 Backend development (Django, Laravel, APIs, microservices)
+- 🔄 System design (making things scale before they break… hopefully)
+- 🧪 QA mindset (I don’t trust my own code until I try to break it)
 
-----------
+---
 
-## 🛠 Tech Stack
+## 🧰 Tech Stack
 
-### 📱 Mobile Development
+**Languages:** Kotlin, Python, PHP, Java   
+**Backend:** Django, Laravel, REST, microservices 
+**Mobile:** Android (Jetpack Compose, MVVM), Flutter</br>
+**Databases:** PostgreSQL, MySQL, SQLite  
+**Tools:** Docker, Git, Postman, Linux, caffeine
 
-#### Android
+---
 
--   Kotlin
-    
--   Java
-    
--   Jetpack Compose
-    
--   Android SDK
-    
--   Material Design 3
-    
--   Coroutines
-    
--   Flow
-    
--   Room Database
-    
--   DataStore
-    
--   WorkManager
-    
--   Dagger-Hilt
-    
--   MVVM & MVI Architecture
-    
+## 🚀 What Makes Me Different
 
-#### Flutter
+- I build systems that *think ahead* (not just “it works” but “it won’t die under pressure”)
+- I care about architecture, not just features
+- I’ve worked on **smart platforms**
+- I break things on purpose so users don’t have to 😌
 
--   Dart
-    
--   Flutter SDK
-    
--   Riverpod
-    
--   Provider
-    
--   Drift
-    
--   Freezed
-    
--   Dio
-    
--   GoRouter
-    
--   SQLite
-    
--   Clean Architecture
-    
--   MVVM Architecture
-    
--   Offline-First Applications
-    
--   Responsive UI Development
-    
-
-----------
-
-### ⚙️ Backend Development
-
-#### Languages
-
--   Python
-    
--   PHP
-    
-
-#### Frameworks
-
--   Django
-    
--   Django REST Framework
-    
--   Laravel
-    
-
-#### Databases
-
--   PostgreSQL
-    
--   MySQL
-    
--   SQLite
-    
-
-#### APIs & Security
-
--   REST APIs
-    
--   JWT Authentication
-    
--   OAuth2
-    
-
-#### Distributed Systems
-
--   Apache Kafka
-    
--   Celery
-    
--   Redis
-    
--   Event-Driven Architecture
-    
--   Microservices
-    
-
-----------
-
-### 🏗 Software Architecture
-
--   Clean Architecture
-    
--   MVVM
-    
--   MVI
-    
--   Repository Pattern
-    
--   Dependency Injection
-    
--   Domain-Driven Design (DDD)
-    
--   Offline-First Design
-    
--   Scalable System Design
-    
-
-----------
-
-### 🧪 QA Engineering
-
--   Appium
-    
--   UI Testing
-    
--   Automated Testing
-    
--   Regression Testing
-    
--   Test Planning
-    
--   Quality Assurance Processes
-    
-
-----------
-
-### ☁️ DevOps & Tools
-
--   Git
-    
--   GitHub
-    
--   Docker
-    
--   Linux
-    
--   CI/CD Pipelines
-    
--   Firebase
-    
--   Gradle
-    
-
-----------
-
-### 🏥 Health Information Systems
-
--   DHIS2 Android SDK
-    
--   DHIS2 API Integrations
-    
--   Tracker Implementations
-    
--   Health Data Synchronization
-    
--   Metadata Management
-    
--   Digital Health Solutions
-    
-
-----------
-
-### 🤖 Artificial Intelligence
-
--   Machine Learning
-    
--   OCR Solutions
-    
--   Intelligent Document Processing
-    
--   AI-Powered Mobile Applications
-    
--   TensorFlow Lite
-    
-
-----------
-
-## 💼 Professional Highlights
-
-### 🏥 Digital Health Solutions
-
--   Developed scalable health information systems leveraging DHIS2.
-    
--   Implemented complex data synchronization and health data workflows.
-    
--   Built integrations between mobile applications and national health platforms.
-    
--   Optimized API communication and large-scale data processing.
-    
-
-### 📱 Mobile Engineering
-
--   Developed and maintained Android applications using modern Android architecture.
-    
--   Built Flutter applications using Riverpod, Drift, and Clean Architecture.
-    
--   Implemented offline-first solutions for environments with unreliable connectivity.
-    
--   Delivered multilingual and highly customizable user experiences.
-    
-
-### ⚙️ Backend Engineering
-
--   Designed scalable APIs and backend services using Django and Laravel.
-    
--   Built microservice-based architectures supporting high-volume integrations.
-    
--   Developed event-driven systems using Apache Kafka.
-    
--   Implemented asynchronous processing pipelines using Celery and Redis.
-    
-
-### 💳 Digital Payments
-
--   Led integrations with M-Pesa and mobile wallet providers.
-    
--   Designed payment workflows supporting subscriptions and transaction processing.
-    
--   Built secure and scalable payment service architectures.
-
-----------
-
-## 🌱 Currently Exploring
-
--   AI Agents
-    
--   Large Language Models (LLMs)
-    
--   Advanced QA Automation
-    
--   Machine Learning on Mobile
-    
--   Cloud-Native Architectures
-    
--   Distributed Systems at Scale
-    
--   Intelligent Document Processing
-    
-
-----------
-
-## 📊 GitHub Statistics
-
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosMacaneta&theme=algolia)
-
-----------
+---
 
 ## 🎯 Interests
 
--   Android Development
-    
--   Flutter Development
-    
--   Backend Engineering
-    
--   Software Architecture
-    
--   Microservices
-    
--   QA Engineering
-    
--   Artificial Intelligence
-    
--   Open Source
-    
--   Digital Health
-    
--   Agritech
-    
+- System design & scalable architectures  
+- Mobile + backend integration  
+- Fintech systems  
+- QA engineering (breaking things professionally)  
+- Building products that feel “simple” but are not simple at all
 
-----------
+---
 
-## 🤝 Let's Connect
+## ☕ Fun Facts
 
-I'm always interested in collaborating on:
+- I can debug faster after coffee. Coincidence? I think not.
+- I’ve accepted that “final_final_v3_reallyfinal” is a valid file name.
+- I believe logs are the true source of truth (and pain).
 
--   Mobile Applications
-    
--   Backend Systems
-    
--   Open Source Projects
-    
--   Health Technology Solutions
-    
--   AI-Powered Applications
-    
--   Scalable Distributed Systems
-    
+---
 
-Feel free to explore my repositories and connect with me. I'm always open to discussing technology, software architecture, and innovative ideas.
+## 📫 Let’s Connect
+
+If you want to build something impactful, scalable, or slightly chaotic (in a good way), I’m in.
+
+> “Good code runs. Great code survives reality.”

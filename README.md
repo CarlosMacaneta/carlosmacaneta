@@ -23,8 +23,8 @@ I enjoy building systems that actually solve real problems—not just tutorials 
 
 ## 🧰 Tech Stack
 
-**Languages:** Kotlin, Python, PHP, Java   
-**Backend:** Django, Laravel, REST, microservices 
+**Languages:** Kotlin, Python, PHP, Java</br>   
+**Backend:** Django, Laravel, REST, microservices</br> 
 **Mobile:** Android (Jetpack Compose, MVVM), Flutter</br>
 **Databases:** PostgreSQL, MySQL, SQLite  
 **Tools:** Docker, Git, Postman, Linux, caffeine
